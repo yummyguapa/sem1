@@ -5,5 +5,5 @@
 * *Я учусь в **Высшей школе экономики***
 -------------------------------
 ### Социальные сети
-* [Мой VK](http://vk.com/maryezhova)
-* [Мой Instagram](https://www.instagram.com/maryezhova/)
+* [Мой VK](http://vk.com/maryezhova "Мария Ежова")
+* [Мой Instagram](https://www.instagram.com/maryezhova/ "maryezhova")
