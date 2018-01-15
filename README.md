@@ -8,3 +8,4 @@
 * *Я учусь в Высшей школе экономики*
 ### Социальные сети
 * [Мой VK](http://vk.com/maryezhova)
+* [Мой Instagram](https://www.instagram.com/maryezhova/)
